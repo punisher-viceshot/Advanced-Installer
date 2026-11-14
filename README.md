@@ -198,4 +198,4 @@ This repository serves as the official landing page for Advanced Installer. The 
 **Get the most recent version of Advanced Installer today!**
 
 ---
-**Last updated:** 2026-11-13 19:17:23 UTC
+**Last updated:** 2026-11-14 00:42:33 UTC
